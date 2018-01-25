@@ -1,0 +1,19 @@
+{
+  "language": "zh",
+  "plugins": [
+    "github",
+    "editlink",
+    "prism",
+    "-highlight",
+    "splitter"
+  ],
+  "pluginsConfig": {
+    "github": {
+      "url": "https://github.com/zenanswer/gitbooktest1"
+    },
+    "editlink": {
+      "base": "https://github.com/zenanswer/gitbooktest1",
+      "label": "编辑本页"
+    }
+  }
+}
